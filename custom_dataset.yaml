@@ -1,5 +1,5 @@
-train: '/content/drive/MyDrive/yolov6/dataset/images/train' #train images(relative to 'path')
-val: '/content/drive/MyDrive/yolov6/dataset/images/val' #val images(relative to 'path')
+train: '/content/drive/MyDrive/dataset/images/train' #train images(relative to 'path')
+val: '/content/drive/MyDrive/dataset/images/val' #val images(relative to 'path')
 
 nc: 7
 names:
